@@ -6,9 +6,17 @@
 
 ## Hi there! I'm Arthur aka Big Poppa Code! 🤓 
 
-I work as a Software Engineer specializing in JavaScript Technologies like Node, React and VueJs. I have a passion for helping businesses reach their perfect audience and using my skill to help them communicate to that audience in a way that makes them know, like and trust them. I am a Navy Veteran and have been teaching my whole life, whether it was being a math tutor in Junior High, A step dancing instructor in high school, A camp counselor during Summer Vacation, and a Weapons Instructor in the Navy. Any time I learn something I love to help others learn it also.
+I am a Technologist, Educator, Entrepreneur and Investor. I work as a CTO and Senior Software Engineer specializing in Technologies like NodeJs, Webpack, Babel, Eslint, React and VueJs. I have a passion for helping businesses reach their perfect audience and using my skill to help them communicate to that audience in a way that makes them know, like and trust them.
 
 <h2 align="left">Connect with me: 👀</h2>
+
+<!-- Calendly inline widget begin -->
+<div class="calendly-inline-widget" data-url="https://calendly.com/arthurbernier" style="min-width:320px;height:630px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+<!-- Calendly inline widget end -->
+
+
+
 <p align="left">
 <a href="https://twitter.com/bigpoppacode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="esincodes" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/developmentandmanagement" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="arthurslinkedin" height="30" width="40" /></a>
