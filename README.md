@@ -1,7 +1,7 @@
 <p align="center"> <a href="https://twitter.com/bigpoppacode" target="blank"><img src="https://img.shields.io/twitter/follow/bigpoppacode?logo=twitter&style=for-the-badge" alt="bigpoppacode" /></a> </p>
 
 <p align="center">
-<img src="https://camo.githubusercontent.com/293b49a66a354c5cb8f1399e6d0413c582e606b98f8899fa703e143db460dc10/687474703a2f2f70726f6772657373616e64666f7274756e652e636f6d2f736d61635f696d616765732f70726f66696c652e6a7067" height="550"/>
+<img src="https://user-images.githubusercontent.com/38284764/161472154-52d96448-e964-4c87-96ac-9dd382241c30.png" height="550"/>
 </p>
 
 ## Hi there! I'm Arthur aka Big Poppa Code! 🤓 
